@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mozaffar-Etezadifar
 - 👀 I’m interested in Non-intrusive load monitoring (NILM), Reinforcement Learning (RL) and Machine Learning applications in Smart grids
-- 🌱 I’m currently lworking as a data scientist at BIA ENERGY
+- 🌱 I’m currently lworking as a senior data scientist at Ubicquia
 - 💞️ I’m looking to collaborate on use of RL and ML techniques on smart grid's historical data.
 - 📫 How to reach me: Mozaffar.etezadifar@polymtl.ca - Mozaffar.etezadifar@gmail.com
 
